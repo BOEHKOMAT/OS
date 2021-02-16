@@ -1,0 +1,3 @@
+﻿  Client.cpp
+C:\Users\micro\source\repos\Client\Client\Client.cpp(14,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Client.vcxproj -> C:\Users\micro\source\repos\Client\Debug\Client.exe
